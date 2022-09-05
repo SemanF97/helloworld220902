@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7e65f78-112a-4763-86ef-16bc5a4e1ef9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/docker/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7e65f78-112a-4763-86ef-16bc5a4e1ef9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662084930434</updated>
-      <workItem from="1662084933771" duration="13447000" />
+      <workItem from="1662084933771" duration="14127000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1662089112897</created>
@@ -168,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662362965418</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="docker成功了吗">
+      <created>1662372765503</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662372765503</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +197,7 @@
     <MESSAGE value="着迷" />
     <MESSAGE value="提交代码自动构建" />
     <MESSAGE value="提交代码自动构建token" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交代码自动构建token" />
+    <MESSAGE value="docker成功了吗" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker成功了吗" />
   </component>
 </project>
