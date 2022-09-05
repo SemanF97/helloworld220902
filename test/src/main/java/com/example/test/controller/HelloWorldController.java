@@ -8,6 +8,6 @@ public class HelloWorldController {
 
     @RequestMapping("/")
     public String index(){
-        return "Hello World--Jenkins着迷-token2";
+        return "Hello World--Jenkins着迷-互联网";
     }
 }
