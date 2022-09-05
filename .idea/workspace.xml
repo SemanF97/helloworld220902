@@ -86,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662084930434</updated>
-      <workItem from="1662084933771" duration="14127000" />
+      <workItem from="1662084933771" duration="14865000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1662089112897</created>
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662372765503</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="docker成功了吗">
+      <created>1662375512572</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662375512572</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
